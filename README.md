@@ -2,7 +2,6 @@
 
 Ứng dụng thực hành môn **An toàn và bảo mật thông tin**: mã hóa đối xứng AES-256-GCM, mã hóa khóa công khai RSA-2048, băm SHA-256 và chữ ký số RSA-PSS. Giao diện desktop viết bằng C# Windows Forms trên .NET 8.
 
-> **Ngôn ngữ giao diện:** Tiếng Việt. **Nền tảng:** Windows 10/11.
 
 ## Nội dung
 
