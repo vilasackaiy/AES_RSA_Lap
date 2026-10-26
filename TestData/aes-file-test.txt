@@ -1,0 +1,3 @@
+﻿This is a sample file for AES-256-GCM file encryption testing.
+Original data should match the decrypted file byte-for-byte.
+Use this file to test encryption, decryption, and SHA-256 comparison.
