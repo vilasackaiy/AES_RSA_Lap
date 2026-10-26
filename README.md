@@ -35,13 +35,29 @@
 
 ## Ảnh chụp giao diện
 
-Ảnh minh chứng cần được chụp trực tiếp từ ứng dụng đang chạy trên Windows, sau khi thực hiện thao tác tương ứng. Không dùng hình minh họa giả lập làm bằng chứng kiểm thử. Ảnh giao diện chưa được đính kèm trong phiên bản hiện tại; cần bổ sung sau khi chạy và kiểm tra thực tế các màn hình sau:
+Chụp ảnh thật trực tiếp từ ứng dụng đang chạy trên Windows và lưu PNG vào thư mục `screenshots/` theo tên dưới đây. Không dùng hình minh họa giả làm bằng chứng kiểm thử.
 
-- AES: mã hóa/giải mã văn bản.
-- AES: mã hóa/giải mã tệp lớn và thông tin hiệu năng.
-- RSA: mã hóa/giải mã dữ liệu.
-- RSA: SHA-256, ký và xác minh chữ ký hợp lệ.
-- RSA: trình xem cấu trúc PEM/DER.
+### AES — mã hóa/giải mã văn bản
+
+![AES mã hóa văn bản](screenshots/01-aes-encrypt.png)
+
+### AES — tệp lớn, thời gian và so sánh
+
+![AES tệp lớn](screenshots/02-aes-file-test.png)
+
+### RSA — mã hóa/giải mã
+
+![RSA mã hóa](screenshots/03-rsa-encrypt.png)
+
+### SHA-256 và chữ ký số
+
+![SHA-256 và chữ ký số](screenshots/04-rsa-sign-verify.png)
+
+### Trình xem PEM/DER
+
+![PEM DER viewer](screenshots/05-rsa-key-viewer.png)
+
+> Ảnh sẽ hiển thị khi bạn lưu các screenshot thật với đúng tên tệp ở trên.
 
 ## Yêu cầu
 
@@ -103,3 +119,4 @@ AES_RSA_Lab/
 ## Tác giả / học phần
 
 Dự án thực hành phục vụ học phần **An toàn và bảo mật thông tin**.
+
