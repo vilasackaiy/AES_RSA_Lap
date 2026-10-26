@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+*.key
+private.pem
+*.aesgcm
+*.decrypted
+TestData/*.bin
+
+.vs/
+*.aeskey
+*.private.pem
+*_private.pem
+private*.pem
+
