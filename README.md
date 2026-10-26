@@ -1,3 +1,8 @@
+Họ va tên: Panyasack Vialasck
+MSSV:LAOS225001
+LƠP: K59KMT
+
+
 # AES / RSA Security Lab
 
 Ứng dụng thực hành môn **An toàn và bảo mật thông tin**: mã hóa đối xứng AES-256-GCM, mã hóa khóa công khai RSA-2048, băm SHA-256 và chữ ký số RSA-PSS. Giao diện desktop viết bằng C# Windows Forms trên .NET 8.
@@ -14,7 +19,7 @@
 - [Cấu trúc dự án](#cấu-trúc-dự-án)
 - [Lưu ý bảo mật](#lưu-ý-bảo-mật)
 
-## Tính năng
+
 ## Bài 1
 
 ### AES-256-GCM
